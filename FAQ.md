@@ -11,10 +11,8 @@ Yes. All payments go through secure mobile money APIs.
 Yes, but only before the trader accepts it. Cancellations are tracked under your account.
 
 ###  I’m a trader. Can I see my sales history?
-Yes — your dashboard includes sales stats, orders, and customer feedback.
+Yes, your dashboard includes sales stats, orders, and customer feedback.
 
-
----
 
  6. CHANGELOG.md
 
