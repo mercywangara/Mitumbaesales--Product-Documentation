@@ -25,7 +25,7 @@
 ##  Quick Start
 
 ```bash
-cd mitomba-esales
+cd mitumba-esales
 # follow setup in DeveloperGuide.md
 ```
 Authors
