@@ -28,7 +28,7 @@
 - Proceed to payment
 
 ## Payments
-- Use M-Pesa or MTN Mobile Money
+- Use M-Pesa 
 - Receive confirmation via SMS and app
 
 ## Order Tracking
