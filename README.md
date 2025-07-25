@@ -1,3 +1,5 @@
+
+
 # Mitumbaesales--Product-Documentation
 **Mitumba-esales** is a lightweight e-commerce platform built to digitize second-hand clothing sales. It connects traders and buyers — allowing sellers to upload photos of clothes and buyers to view, order, and pay directly online.
 
@@ -35,3 +37,4 @@ Authors
 - Mahado Ali Ibrahim
 - Ahenda Esther Aloo
 - Magret David Jumbe
+
