@@ -1,13 +1,12 @@
 ##  4. `docs/SystemArchitecture.md`
 
-```markdown
 # System Architecture – Mitomba eSales
 
-## 🧩 Components
-- **Trader Interface** – uploads, dashboard
-- **Buyer Interface** – browse, buy, track
-- **Backend** – handles auth, products, orders, payments
-- **Payment Gateway** – M-Pesa or MoMo integration
+## Components
+- Trader Interface– uploads, dashboard
+- Buyer Interface – browse, buy, track
+- Backend– handles auth, products, orders, payments
+- Payment Gateway – M-Pesa or MoMo integration
 
 ##  Data Flow
 1. Trader uploads product
@@ -17,13 +16,13 @@
 5. Order recorded in DB
 
 ##  Database Schema (Simplified)
-**Users**
+Users
 - id, name, email, type (buyer/trader)
 
-**Products**
+Products
 - id, trader_id, image_url, name, price, description
 
-**Orders**
+Orders
 - id, buyer_id, product_id, status, payment_status
 
 ##  API Endpoints
