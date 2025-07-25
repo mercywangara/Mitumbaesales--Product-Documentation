@@ -6,8 +6,6 @@ Traders can mark a product as sold out, so it disappears from listings.
 ###  Is my payment secure?
 Yes. All payments go through secure mobile money APIs.
 
-###  How long does delivery take?
-This depends on trader location. Users get notified of delivery estimate after ordering.
 
 ###  Can I cancel an order?
 Yes, but only before the trader accepts it. Cancellations are tracked under your account.
