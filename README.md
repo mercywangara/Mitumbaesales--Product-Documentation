@@ -32,6 +32,6 @@ Authors
 
 - Mercy Wangara
 - Meaza Misgina Sibhat
-- Mahado Ibraham Ali
+- Mahado Ali Ibrahim
 - Ahenda Esther Aloo
 - Magret David Jumbe
