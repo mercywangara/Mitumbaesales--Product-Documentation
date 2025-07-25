@@ -32,7 +32,7 @@ API_KEY=<your-payment-api-key>
 DEBUG=True
 DATABASE_URL=...
 
-📬 Contributing
+Contributing
 
 Fork repo
 
